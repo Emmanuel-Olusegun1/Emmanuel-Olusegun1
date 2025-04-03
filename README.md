@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Emmanuel Olusegun 👋</h1>  
 <p align="center">
-💻 Frontend Developer | Open Source Contributor | Crafting Interactive Web Solutions | Sharing Knowledge 
+Software Developer | Open Source Contributor | Crafting Interactive Web Solutions | Sharing Knowledge 
 </p>  
 
 ---
@@ -28,13 +28,13 @@ I am currently working on several projects, including **open-source platforms, w
 #### 🔹 [Uni Smart](#)  
 **A Virtual Cyber Café service platform** for LAUTECH students to process course registrations, portal payments, and document editing services, e.t.c..  
 
-#### 🔹 [Algoritic](#)  
+#### 🔹 [Algoritic Inc.](#)  
 A **tech startup** focused on building real-world software solutions. Currently working on the company website and open-source projects.  
   
 
 ---
 
-### 📫 Get in Touch  
+### Get in Touch  
 
-💼 **LinkedIn:** https://www.linkedin.com/in/emmanuel-olusegun-457385344/
+💼 **LinkedIn:** https://www.linkedin.com/in/emmanuel-olusegun-457385344/ <br />
 🌐 **Website:** https://orizonstudio.netlify.app
