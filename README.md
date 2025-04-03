@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Emmanuel Olusegun 👋</h1>  
 <p align="center">
-💻 Frontend Developer | Open Source Contributor | Technical Writer  
+💻 Frontend Developer | Open Source Contributor | Crafting Interactive Web Solutions | Sharing Knowledge 
 </p>  
 
 ---
@@ -37,4 +37,4 @@ A **tech startup** focused on building real-world software solutions. Currently 
 ### 📫 Get in Touch  
 
 💼 **LinkedIn:** https://www.linkedin.com/in/emmanuel-olusegun-457385344/
-🌐 **Website:** orizonstudio.netlify.app
+🌐 **Website:** https://orizonstudio.netlify.app
