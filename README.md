@@ -1,40 +1,83 @@
-<h1 align="center">Hi, I'm Emmanuel Olusegun 👋</h1>  
-<p align="center">
-Software Developer | Open Source Contributor | Crafting Interactive Web Solutions | Sharing Knowledge 
-</p>  
+<h1 align="center">Emmanuel Olusegun</h1>  
+<h3 align="center">Frontend Developer | Open Source Contributor | Tech Enthusiast</h3>  
 
 ---
 
-### 🚀 About Me  
+### Professional Profile  
 
-I am a **frontend developer** with a strong passion for building interactive web applications and contributing to open-source projects. My focus is on writing clean, maintainable code that solve real-life problems and creating seamless user experiences.  
-
-I am currently working on several projects, including **open-source platforms, web applications, and community-driven tech solutions**. I enjoy collaborating with other developers and continuously expanding my knowledge in modern web technologies.  
+Results-driven Frontend Developer with expertise in building responsive, user-centric web applications. Passionate about open-source contribution and creating solutions that bridge technology with real-world needs. Currently expanding skills in modern JavaScript frameworks while delivering high-quality digital experiences.
 
 ---
 
-### 🛠️ Tech Stack  
+### Technical Proficiencies  
 
-- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript  
-- **JavaScript Frameworks:** Learning React 
-- **Backend & Databases:** Supabase  
-- **Tools & Platforms:** Git, GitHub, Vercel, Netlify 
-- **Other Skills:** API Integration, UI/UX Basics
+**Frontend Development:**  
+• HTML5 | CSS3 | JavaScript (ES6+)  
+• Tailwind CSS | Responsive Design  
+• Currently mastering React.js  
+
+**Backend & Database:**  
+• Supabase (Authentication, Database)  
+
+**Development Tools:**  
+• Git | GitHub | Vercel | Netlify  
+• RESTful API Integration  
+• UI/UX Principles  
+
+**Collaboration:**  
+• Agile Methodologies  
+• Cross-functional Team Experience  
+• Technical Documentation  
 
 ---
 
-### 📌 Current Projects  
+### Key Projects  
 
-#### 🔹 [Uni Smart](#)  
-**A Virtual Cyber Café service platform** for LAUTECH students to process course registrations, portal payments, and document editing services, e.t.c..  
+### Ventar - Event Management Platform
 
-#### 🔹 [Algoritic Inc.](#)  
-A **tech startup** focused on building real-world software solutions. Currently working on the company website and open-source projects.  
-  
+**Frontend Developer | In Development**
+
+- Building a comprehensive event management solution for venues and organizers
+
+- Implementing real-time attendee tracking using Supabase integration
+
+- Creating responsive UI components for both desktop and mobile event coordination
+
+- Designing admin dashboards for event analytics and participant management
+
+#### CampuusX - Educational Platform
+**Lead Frontend Developer** 
+- Developing an interactive learning management system for Nigerian universities  
+- Implementing real-time collaboration features using Supabase  
+- Optimizing UI components for mobile-first education access  
+
+#### Uni Smart - Student Services Portal  
+**Founder & Developer**  
+- Built virtual cyber café platform serving 5,000+ LAUTECH students  
+- Course registration and document processing workflows 
+- Reduced student service costs by 40% through digital transformation  
+
+#### Algoritic Inc. - Tech Solutions  
+**Founder & CEO**  
+- Spearheading development of company website and open-source initiatives  
+- Architecting SaaS solutions for small businesses in Southwest Nigeria  
+- Building developer community through technical workshops  
 
 ---
 
-### Get in Touch  
+### Professional Presence  
 
-💼 **LinkedIn:** https://www.linkedin.com/in/emmanuel-olusegun-457385344/ <br />
-🌐 **Website:** https://orizonstudio.netlify.app
+**Portfolio:** [emmanuelolusegun.netlify.app](https://emmanuelolusegun.netlify.app)  
+**LinkedIn:** [Emmanuel Olusegun](https://www.linkedin.com/in/emmanuel-olusegun-457385344/)
+---
+
+### Development Focus  
+
+• Advancing expertise in React ecosystem  
+• Contributing to meaningful open-source projects  
+• Building accessible, performant web applications
+
+*Open to collaboration on innovative projects and tech-for-good initiatives.*  
+- Makes your skills and goals clear to potential collaborators/employers  
+
+Would you like me to adjust any particular section further?
