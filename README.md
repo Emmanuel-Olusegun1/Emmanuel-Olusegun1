@@ -33,7 +33,7 @@ Results-driven Frontend Developer with expertise in building responsive, user-ce
 
 ### Key Projects  
 
-### Ventar - Event Management Platform
+#### Ventar - Event Management Platform
 
 **Frontend Developer | In Development**
 
