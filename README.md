@@ -53,7 +53,7 @@ Prisma
 - Optimizing UI components for mobile-first education access  
 
 #### Uni Smart - Student Services Portal  
-**Founder & Developer**  
+**Frontend Developer**  
 - Built virtual cyber café platform serving 5,000+ LAUTECH students  
 - Course registration and document processing workflows 
 - Reduced student service costs by 40% through digital transformation  
@@ -61,7 +61,7 @@ Prisma
 #### Algoritic Inc. - Tech Solutions  
 **Founder & CEO**  
 - Spearheading development of company website and open-source initiatives  
-- Architecting SaaS solutions for small businesses in Southwest Nigeria  
+- Architecting SaaS solutions for small businesses in Africa
 - Building developer community through technical workshops  
 
 ---
