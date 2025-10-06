@@ -12,12 +12,13 @@ Results-driven Frontend Developer with expertise in building responsive, user-ce
 ### Technical Proficiencies  
 
 **Frontend Development:**  
-• HTML5 | CSS3 | JavaScript (ES6+)  
-• Tailwind CSS | Responsive Design  
-• Currently mastering React.js  
+• HTML5 | CSS3 | JavaScript (ES6+) | Typescript
+• Tailwind CSS | Responsive Design  | React JS
+• Currently mastering Next.js
 
 **Backend & Database:**  
-• Supabase (Authentication, Database)  
+• Supabase (Authentication, Database, storage) 
+Prisma 
 
 **Development Tools:**  
 • Git | GitHub | Vercel | Netlify  
