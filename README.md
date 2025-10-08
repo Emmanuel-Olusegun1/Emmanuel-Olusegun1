@@ -46,17 +46,15 @@ Prisma
 
 - Designing admin dashboards for event analytics and participant management
 
+Live link - [ventar.netlify.app](https://ventar.netlify.app)  
+
 #### CampuusX - Educational Platform
 **Lead Frontend Developer** 
 - Developing an interactive learning management system for Nigerian universities  
 - Implementing real-time collaboration features using Supabase  
-- Optimizing UI components for mobile-first education access  
+- Optimizing UI components for mobile-first education access
 
-#### Uni Smart - Student Services Portal  
-**Frontend Developer**  
-- Built virtual cyber café platform serving 5,000+ LAUTECH students  
-- Course registration and document processing workflows 
-- Reduced student service costs by 40% through digital transformation  
+Live link - [campuusx.netlify.app](https://campuusx.netlify.app)  
 
 #### Algoritic Inc. - Tech Solutions  
 **Founder & CEO**  
@@ -64,6 +62,7 @@ Prisma
 - Architecting SaaS solutions for small businesses in Africa
 - Building developer community through technical workshops  
 
+Live link - [algoritic.com.ng](https://algoritic.com.ng)  
 ---
 
 ### Professional Presence  
@@ -74,11 +73,8 @@ Prisma
 
 ### Development Focus  
 
-• Advancing expertise in React ecosystem  
+• Advancing expertise in scalable ecosystem  
 • Contributing to meaningful open-source projects  
 • Building accessible, performant web applications
 
-*Open to collaboration on innovative projects and tech-for-good initiatives.*  
-- Makes your skills and goals clear to potential collaborators/employers  
-
-Would you like me to adjust any particular section further?
+*Open to collaboration on innovative projects and tech-for-good initiatives.*
