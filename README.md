@@ -60,9 +60,9 @@ Live link - [campuusx.netlify.app](https://campuusx.netlify.app)
 **Founder & CEO**  
 - Spearheading development of company website and open-source initiatives  
 - Architecting SaaS solutions for small businesses in Africa
-- Building developer community through technical workshops  
+- Building developer community through technical workshops
 
-Live link - [algoritic.com.ng](https://algoritic.com.ng)  
+  Live link - [algoritic.com.ng](https://algoritic.com.ng)  
 ---
 
 ### Professional Presence  
