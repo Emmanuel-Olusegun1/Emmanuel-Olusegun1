@@ -65,10 +65,10 @@ Producing Afrobeats, Amapiano, Gospel (AfroGospel, etc) and folk-roots music usi
 
 ## Let's Connect
 
--**Portfolio:** [krilarr.vercel.app/u/solutiondr](https://krilarr.vercel.app/u/solutiondr)
--**LinkedIn:** [in/emmanuel-olusegun-solution-dr-457385344](https://www.linkedin.com/in/emmanuel-olusegun-solution-dr-457385344/)  
--**X:** [OEmmanuel0205](https://x.com/OEmmanuel0205)
--**TicTok**: [Solution Dr.](https://www.tictok.com/@devorizon)
+- **Portfolio:** [krilarr.vercel.app/u/solutiondr](https://krilarr.vercel.app/u/solutiondr)
+- **LinkedIn:** [in/emmanuel-olusegun-solution-dr-457385344](https://www.linkedin.com/in/emmanuel-olusegun-solution-dr-457385344/)  
+- **X:** [OEmmanuel0205](https://x.com/OEmmanuel0205)
+- **TicTok**: [Solution Dr.](https://www.tictok.com/@devorizon)
 
 Open to collaboration on:
 - SaaS products solving African market problems  
