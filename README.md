@@ -47,7 +47,7 @@ Producing Afrobeats, Amapiano, Gospel (AfroGospel, etc) and folk-roots music usi
 - **Greenli** - E-commerce platform for sustainable green product
 - **CampuuX** - Learning management system for Nigerian universities  
 - **Ventar** - Event management platform with real-time tracking  
-- **Ladokart** - E-commerce initiative  
+- **AwaKart** - Escrow E-commerce initiative  
 - **AWDW'26 Webinar** - Coordinated "Empowering Success" speaker series (May 2026)  
 - **TEDxLAUTECH 2026** - Technical Team member
 - **AWS SBG LAUTECH** - Core Team Member
